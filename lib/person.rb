@@ -10,6 +10,6 @@ class Person
 
 end
 
-fido = Person.new
-fido.talk
-fido.walk
+#fido = Person.new
+#fido.talk
+#fido.walk
